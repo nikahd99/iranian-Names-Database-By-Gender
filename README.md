@@ -10,4 +10,4 @@
 > - :fire: names with misspellings ***have not*** been removed to increase the efficiency and accuracy of the database.
 >  - :fire: This database includes Iranian names with roots of different ethnicities such as Persian, Azeri, Baluchi, Kurdish, Armenian, etc.
 
-### It took a long time to build this database and eliminate its problems. So if you liked this project or had an opinion about it, you can send me a :speech_balloon:  [feedback](rnikahd77@gmail.com).
+### It took a long time to build this database and eliminate its problems. So if you liked this project or had an opinion about it, you can send me a :speech_balloon:  [feedback](mailto:rnikahd77@gmail.com).
